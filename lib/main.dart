@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import './models/database_provider.dart';
+import 'sqlite/database_provider.dart';
 
 import './screens/category_screen.dart';
 import './screens/expense_screen.dart';
