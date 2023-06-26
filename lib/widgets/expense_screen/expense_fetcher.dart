@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../sqlite/database_provider.dart';
+import '../../database/database_provider.dart';
 import './expense_list.dart';
 import './expense_chart.dart';
 

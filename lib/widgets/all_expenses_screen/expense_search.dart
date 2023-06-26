@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../../sqlite/database_provider.dart';
+import '../../database/database_provider.dart';
 
 class ExpenseSearch extends StatefulWidget {
   const ExpenseSearch({super.key});
